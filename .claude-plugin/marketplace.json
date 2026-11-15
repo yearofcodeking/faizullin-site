@@ -1,0 +1,14 @@
+{
+  "name": "faizullin-site",
+  "description": "Агент для Claude Code, который делает сайт под ключ: цель, тексты, дизайн, моушен 60 fps и проверку на телефоне. Скилл ui-design внутри.",
+  "owner": {
+    "name": "faizullin studio"
+  },
+  "plugins": [
+    {
+      "name": "faizullin-site",
+      "source": "./plugins/faizullin-site",
+      "description": "Сайт под ключ: агент продумывает цель и структуру, пишет тексты, верстает, добавляет пружинный моушен и сам проверяет страницу на компьютере и телефоне. Скилл ui-design загружен в агента."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "faizullin-site",
+  "version": "1.0.0",
+  "description": "Agent that builds a complete website: goal, structure, copy, design, 60 fps spring motion and self-check on desktop and mobile. The ui-design skill is preloaded. Сайт под ключ: тексты, дизайн, моушен и проверка на телефоне.",
+  "author": { "name": "faizullin studio" },
+  "homepage": "https://github.com/yearofcodeking/faizullin-site",
+  "repository": "https://github.com/yearofcodeking/faizullin-site",
+  "license": "MIT",
+  "keywords": ["website", "landing", "agent", "ui", "design", "motion", "сайт", "лендинг", "агент", "дизайн"]
+}
